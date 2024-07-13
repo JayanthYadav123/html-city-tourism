@@ -1,7 +1,10 @@
 # html-city-tourism
 ### Ex-1
+
 #### Creating a html file to display the contents as seen in the following image.
+
 #### Program:
+
 ```
 <!DOCTYPE html>
 <html>
@@ -76,6 +79,7 @@
 </body>
 </html>
 ```
+
 #### Output
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/3ce8e783-2f88-480e-910f-12e54f89e44b">
 
